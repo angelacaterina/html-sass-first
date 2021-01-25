@@ -1,4 +1,5 @@
 $brand_primary: #66cc33;
+$brand_paragraph: black;
 
 body{
     background-color: aquamarine;
@@ -8,7 +9,7 @@ h2, h3{
     text-align: center;
 }
 p{
-    color: gray;
+    color: $brand_paragraph;
     width: 50%;
     margin: 0 auto;
     text-align: justify;
