@@ -1,0 +1,15 @@
+body {
+  background-color: aquamarine;
+}
+
+h2, h3 {
+  color: #66cc33;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  width: 50%;
+  margin: 0 auto;
+  text-align: justify;
+}
